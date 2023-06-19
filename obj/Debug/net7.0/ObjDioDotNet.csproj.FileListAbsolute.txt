@@ -1,0 +1,15 @@
+C:\Users\caio-\Documents\ObjDioDotNet\bin\Debug\net7.0\ObjDioDotNet.exe
+C:\Users\caio-\Documents\ObjDioDotNet\bin\Debug\net7.0\ObjDioDotNet.deps.json
+C:\Users\caio-\Documents\ObjDioDotNet\bin\Debug\net7.0\ObjDioDotNet.runtimeconfig.json
+C:\Users\caio-\Documents\ObjDioDotNet\bin\Debug\net7.0\ObjDioDotNet.dll
+C:\Users\caio-\Documents\ObjDioDotNet\bin\Debug\net7.0\ObjDioDotNet.pdb
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.csproj.AssemblyReference.cache
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.AssemblyInfoInputs.cache
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.AssemblyInfo.cs
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.csproj.CoreCompileInputs.cache
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.dll
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\refint\ObjDioDotNet.dll
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.pdb
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ObjDioDotNet.genruntimeconfig.cache
+C:\Users\caio-\Documents\ObjDioDotNet\obj\Debug\net7.0\ref\ObjDioDotNet.dll
